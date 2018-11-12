@@ -7,9 +7,5 @@ The game requires Unity 2018.1.8 or higher to work further on. Lower versions ma
 ## Running the final game
 Version 3 of the game can be found in the Builds folder as a .zip file. It can be run directly as an executable.
 
-## Game Play
-![alt text](https://github.com/priyanka1706/BlockGame/blob/master/BlockGame_GamePlay.jpg)
-This is a screenshot from the final game, which can be found in Builds folder.
-
 ## Adding features
 To build on to the game, levels, or traps can be added by making new scenes on Unity and adding them to the Levels.
